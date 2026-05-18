@@ -1,0 +1,764 @@
+<div id="ctl00_ContentPlaceHolder1_heading">
+ 
+  <br />
+      
+   <table align="center" width="100%" bordercolor="#EBEBEB" style="border-collapse: collapse"
+            cellspacing="0">
+            <tr>
+                <td align="center" colspan="15">
+                    <font size="2"><b>
+                        <b>R7.1.2 Outlays & Outcomes during Financial Year 2022-2023</b>
+
+                    </font>
+                    <br />
+                    <b><span id="ctl00_ContentPlaceHolder1_lbl_head"><b>State:</b> ANDHRA PRADESH</span></b>
+                </td>
+            </tr>
+       </table>
+
+    
+     <table align="center" width="99%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" valign="top">
+    <tr bgcolor="#82b4ff">
+    <td align="center" rowspan="3"><b>SNo.</b></td>
+                          
+                     <td align="center" rowspan="3"> <b>District</b></td> 
+                              
+                   <td align="center" colspan="9"><b>Cumulative Expenditure (Rs. in Lakhs)</b> </td> 
+                    <td align="center" colspan="3"  ><b>Employment Provided</b> </td> 
+                     <td align="center" rowspan="3"><b>Average days of employment provided per HH</b> </td> 
+                       <td align="center" rowspan="3"><b>Average Wage per personday (In Rs.)</b> </td> 
+                       <td align="center" colspan="2" ><b>Works</b> </td> 
+                         <td align="center" rowspan="3"><b>Cost Per Personday(in Rs.)</b> </td> 
+                </tr>
+                
+                      <tr bgcolor="#82b4ff">
+                    <td align="center" colspan="2"><b>On Unskilled Wage</b></td>
+                     <td align="center" colspan="2"><b>On Material</b></td>
+                      <td align="center" colspan="2"><b>Adm.Exp</b></td>
+                       <td align="center" colspan="3"><b>Total</b></td>
+                         <td align="center" rowspan="2"><b>Household</b></td>
+                     <td align="center"  rowspan="2"><b>Persons</b></td>
+                      <td align="center"  rowspan="2"><b>Persondays</b></td>
+                       <td align="center"  rowspan="2"><b>comp.</b></td>
+                        <td align="center"  rowspan="2"><b>In-prog.</b></td>
+                    </tr>
+                     <tr bgcolor="#82b4ff">
+                       <td align="center"><b>2022-2023</b></td>
+                       <td align="center"><b>Paid Liability of previous years</b></td>
+                       <td align="center"><b>2022-2023</b></td>
+                       <td align="center"><b>Paid Liability of previous years</b></td>
+                         <td align="center"><b>2022-2023</b></td>
+                       <td align="center"><b>Paid Liability of previous years</b></td>
+                   
+                           <td align="center"><b>2022-2023</b></td>
+                       <td align="center"><b>Paid Liability of previous years</b></td>
+                         <td align="center"><b>Total</b></td>
+  </tr>
+    
+
+    
+             <tr>
+                   <td align="center">1</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=ALLURI+SITHARAMA+RAJU&district_code=0214&fin_year=2022-2023&type=&source=national&short_name=&Digest=pSCu6Bmz7vhz6Rlst0AnlA'>ALLURI SITHARAMA RAJU</a></td>
+                  <td align="right" >27484.25</td>
+                    <td align="right" > 536.1</td>
+                   <td align="right" > 2407.39 </td>
+                   <td align="right">17679.06 </td>
+                   <td align="right" >1371.92 </td>
+                   <td align="right">63.78 </td>
+                 
+                  <td align="right"> 31263.56</td>
+                <td align="right">18278.94 </td>
+                   <td align="right" >49542.5 </td>
+                   <td align="right">196247 </td>
+                   <td align="right"> 362306</td>
+                  <td align="right"> 11833830</td>
+                    <td align="right"> 60.3</td>
+                   <td align="right" >232.64 </td>
+                   <td align="right">15216 </td>
+                   <td align="right"> 52421</td>
+                  <td align="right"> 349.08</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">2</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=ANAKAPALLI&district_code=0215&fin_year=2022-2023&type=&source=national&short_name=&Digest=2HN4korRoM0X9XB6hAb/2w'>ANAKAPALLI</a></td>
+                  <td align="right" >21694.49</td>
+                    <td align="right" > 79.61</td>
+                   <td align="right" > 3307.25 </td>
+                   <td align="right">9738.65 </td>
+                   <td align="right" >1107.81 </td>
+                   <td align="right">28.82 </td>
+                 
+                  <td align="right"> 26109.55</td>
+                <td align="right">9847.08 </td>
+                   <td align="right" >35956.63 </td>
+                   <td align="right">200051 </td>
+                   <td align="right"> 301292</td>
+                  <td align="right"> 11037033</td>
+                    <td align="right"> 55.17</td>
+                   <td align="right" >196.77 </td>
+                   <td align="right">6733 </td>
+                   <td align="right"> 23075</td>
+                  <td align="right"> 275.24</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">3</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=ANANTAPUR&district_code=0212&fin_year=2022-2023&type=&source=national&short_name=&Digest=njTf2zLMGN6oCBHNJv2DGQ'>ANANTAPUR</a></td>
+                  <td align="right" >23219.16</td>
+                    <td align="right" > 93.89</td>
+                   <td align="right" > 1345.04 </td>
+                   <td align="right">19234.14 </td>
+                   <td align="right" >2660.95 </td>
+                   <td align="right">306.84 </td>
+                 
+                  <td align="right"> 27225.15</td>
+                <td align="right">19634.87 </td>
+                   <td align="right" >46860.02 </td>
+                   <td align="right">201182 </td>
+                   <td align="right"> 362968</td>
+                  <td align="right"> 10830751</td>
+                    <td align="right"> 53.84</td>
+                   <td align="right" >214.79 </td>
+                   <td align="right">20240 </td>
+                   <td align="right"> 48316</td>
+                  <td align="right"> 328.9</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">4</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=ANNAMAYYA&district_code=0223&fin_year=2022-2023&type=&source=national&short_name=&Digest=TDisR0YV2HbD0V11w15OyA'>ANNAMAYYA</a></td>
+                  <td align="right" >19222.96</td>
+                    <td align="right" > 71.47</td>
+                   <td align="right" > 1584.65 </td>
+                   <td align="right">10548.88 </td>
+                   <td align="right" >1302.22 </td>
+                   <td align="right">48.04 </td>
+                 
+                  <td align="right"> 22109.82</td>
+                <td align="right">10668.39 </td>
+                   <td align="right" >32778.22 </td>
+                   <td align="right">148970 </td>
+                   <td align="right"> 231734</td>
+                  <td align="right"> 8333001</td>
+                    <td align="right"> 55.94</td>
+                   <td align="right" >230.81 </td>
+                   <td align="right">21881 </td>
+                   <td align="right"> 56798</td>
+                  <td align="right"> 306.25</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">5</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=BAPATLA&district_code=0219&fin_year=2022-2023&type=&source=national&short_name=&Digest=ftQsiTxZgLU0CRmBcPqhNQ'>BAPATLA</a></td>
+                  <td align="right" >14769.58</td>
+                    <td align="right" > 64.58</td>
+                   <td align="right" > 862.54 </td>
+                   <td align="right">6279.76 </td>
+                   <td align="right" >924.58 </td>
+                   <td align="right">47.73 </td>
+                 
+                  <td align="right"> 16556.69</td>
+                <td align="right">6392.07 </td>
+                   <td align="right" >22948.77 </td>
+                   <td align="right">168385 </td>
+                   <td align="right"> 294942</td>
+                  <td align="right"> 7284460</td>
+                    <td align="right"> 43.26</td>
+                   <td align="right" >203.1 </td>
+                   <td align="right">14172 </td>
+                   <td align="right"> 31046</td>
+                  <td align="right"> 243.2</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">6</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=CHITTOOR&district_code=0210&fin_year=2022-2023&type=&source=national&short_name=&Digest=xzng4g8WdN8M/yrRWg3UFg'>CHITTOOR</a></td>
+                  <td align="right" >19093.19</td>
+                    <td align="right" > 116.15</td>
+                   <td align="right" > 3385.52 </td>
+                   <td align="right">11084.23 </td>
+                   <td align="right" >1815.57 </td>
+                   <td align="right">154.01 </td>
+                 
+                  <td align="right"> 24294.29</td>
+                <td align="right">11354.39 </td>
+                   <td align="right" >35648.68 </td>
+                   <td align="right">146742 </td>
+                   <td align="right"> 241165</td>
+                  <td align="right"> 7849406</td>
+                    <td align="right"> 53.49</td>
+                   <td align="right" >243.36 </td>
+                   <td align="right">24862 </td>
+                   <td align="right"> 76711</td>
+                  <td align="right"> 354.07</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">7</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=EAST+GODAVARI&district_code=0204&fin_year=2022-2023&type=&source=national&short_name=&Digest=hAjgUIUg6K8RH37B7+5GtQ'>EAST GODAVARI</a></td>
+                  <td align="right" >12232.25</td>
+                    <td align="right" > 145.02</td>
+                   <td align="right" > 1358.64 </td>
+                   <td align="right">7992.49 </td>
+                   <td align="right" >961.26 </td>
+                   <td align="right">136.09 </td>
+                 
+                  <td align="right"> 14552.15</td>
+                <td align="right">8273.6 </td>
+                   <td align="right" >22825.75 </td>
+                   <td align="right">102071 </td>
+                   <td align="right"> 145701</td>
+                  <td align="right"> 5782415</td>
+                    <td align="right"> 56.65</td>
+                   <td align="right" >211.97 </td>
+                   <td align="right">6296 </td>
+                   <td align="right"> 25224</td>
+                  <td align="right"> 264.82</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">8</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=ELURU&district_code=0217&fin_year=2022-2023&type=&source=national&short_name=&Digest=KjkNhKGNguFLyYd7MGV9Gw'>ELURU</a></td>
+                  <td align="right" >29634.11</td>
+                    <td align="right" > 416.05</td>
+                   <td align="right" > 1487.87 </td>
+                   <td align="right">8706.32 </td>
+                   <td align="right" >1186.03 </td>
+                   <td align="right">84.41 </td>
+                 
+                  <td align="right"> 32308.01</td>
+                <td align="right">9206.78 </td>
+                   <td align="right" >41514.8 </td>
+                   <td align="right">271464 </td>
+                   <td align="right"> 463265</td>
+                  <td align="right"> 14224083</td>
+                    <td align="right"> 52.4</td>
+                   <td align="right" >209.23 </td>
+                   <td align="right">15251 </td>
+                   <td align="right"> 47710</td>
+                  <td align="right"> 235.81</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">9</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=GUNTUR&district_code=0207&fin_year=2022-2023&type=&source=national&short_name=&Digest=OFfYB1nWz/3Drcz9HQtsnA'>GUNTUR</a></td>
+                  <td align="right" >6401.47</td>
+                    <td align="right" > 31.58</td>
+                   <td align="right" > 925.92 </td>
+                   <td align="right">2942.52 </td>
+                   <td align="right" >844.3 </td>
+                   <td align="right">65.06 </td>
+                 
+                  <td align="right"> 8171.7</td>
+                <td align="right">3039.16 </td>
+                   <td align="right" >11210.85 </td>
+                   <td align="right">71089 </td>
+                   <td align="right"> 120422</td>
+                  <td align="right"> 3012418</td>
+                    <td align="right"> 42.38</td>
+                   <td align="right" >212.82 </td>
+                   <td align="right">10684 </td>
+                   <td align="right"> 18876</td>
+                  <td align="right"> 279.11</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">10</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=KAKINADA&district_code=0226&fin_year=2022-2023&type=&source=national&short_name=&Digest=EYZKNSCQoFnDKtK5ccfcMQ'>KAKINADA</a></td>
+                  <td align="right" >15010.25</td>
+                    <td align="right" > 211.62</td>
+                   <td align="right" > 2612.5 </td>
+                   <td align="right">7343.38 </td>
+                   <td align="right" >998.6 </td>
+                   <td align="right">23.99 </td>
+                 
+                  <td align="right"> 18621.35</td>
+                <td align="right">7578.99 </td>
+                   <td align="right" >26200.34 </td>
+                   <td align="right">157729 </td>
+                   <td align="right"> 231005</td>
+                  <td align="right"> 6591617</td>
+                    <td align="right"> 41.79</td>
+                   <td align="right" >228.04 </td>
+                   <td align="right">9073 </td>
+                   <td align="right"> 26855</td>
+                  <td align="right"> 322.21</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">11</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=KONASEEMA&district_code=0216&fin_year=2022-2023&type=&source=national&short_name=&Digest=3lacXmoLFZ+982/9PS8/8A'>KONASEEMA</a></td>
+                  <td align="right" >13286.88</td>
+                    <td align="right" > 100.26</td>
+                   <td align="right" > 2095.5 </td>
+                   <td align="right">6370.43 </td>
+                   <td align="right" >852.14 </td>
+                   <td align="right">47.21 </td>
+                 
+                  <td align="right"> 16234.52</td>
+                <td align="right">6517.9 </td>
+                   <td align="right" >22752.42 </td>
+                   <td align="right">124754 </td>
+                   <td align="right"> 180489</td>
+                  <td align="right"> 5446972</td>
+                    <td align="right"> 43.66</td>
+                   <td align="right" >244.12 </td>
+                   <td align="right">11793 </td>
+                   <td align="right"> 20273</td>
+                  <td align="right"> 322.42</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">12</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=KRISHNA&district_code=0206&fin_year=2022-2023&type=&source=national&short_name=&Digest=M/O+O8kiwUXR5HVRpiJF1A'>KRISHNA</a></td>
+                  <td align="right" >16248.06</td>
+                    <td align="right" > 223.81</td>
+                   <td align="right" > 1740.98 </td>
+                   <td align="right">7051.32 </td>
+                   <td align="right" >1147.54 </td>
+                   <td align="right">192.34 </td>
+                 
+                  <td align="right"> 19136.58</td>
+                <td align="right">7467.48 </td>
+                   <td align="right" >26604.05 </td>
+                   <td align="right">147412 </td>
+                   <td align="right"> 261050</td>
+                  <td align="right"> 6973647</td>
+                    <td align="right"> 47.31</td>
+                   <td align="right" >233.21 </td>
+                   <td align="right">15705 </td>
+                   <td align="right"> 48340</td>
+                  <td align="right"> 295.11</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">13</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=KURNOOL&district_code=0213&fin_year=2022-2023&type=&source=national&short_name=&Digest=iATxobcnM1Vl3JjXwXRj3g'>KURNOOL</a></td>
+                  <td align="right" >20690.4</td>
+                    <td align="right" > 200</td>
+                   <td align="right" > 1803.09 </td>
+                   <td align="right">8112.63 </td>
+                   <td align="right" >2091.62 </td>
+                   <td align="right">235.1 </td>
+                 
+                  <td align="right"> 24585.11</td>
+                <td align="right">8547.73 </td>
+                   <td align="right" >33132.84 </td>
+                   <td align="right">192921 </td>
+                   <td align="right"> 349799</td>
+                  <td align="right"> 9156405</td>
+                    <td align="right"> 47.46</td>
+                   <td align="right" >226.31 </td>
+                   <td align="right">13837 </td>
+                   <td align="right"> 34902</td>
+                  <td align="right"> 303.69</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">14</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=NANDYAL&district_code=0221&fin_year=2022-2023&type=&source=national&short_name=&Digest=EKfj6AdqV/qFZpYvZ0/sSQ'>NANDYAL</a></td>
+                  <td align="right" >14742.74</td>
+                    <td align="right" > 167.32</td>
+                   <td align="right" > 1246.88 </td>
+                   <td align="right">10756.16 </td>
+                   <td align="right" >1526.33 </td>
+                   <td align="right">58.16 </td>
+                 
+                  <td align="right"> 17515.95</td>
+                <td align="right">10981.65 </td>
+                   <td align="right" >28497.6 </td>
+                   <td align="right">163580 </td>
+                   <td align="right"> 285366</td>
+                  <td align="right"> 7042330</td>
+                    <td align="right"> 43.05</td>
+                   <td align="right" >209.58 </td>
+                   <td align="right">11387 </td>
+                   <td align="right"> 34028</td>
+                  <td align="right"> 297.1</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">15</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=NELLORE&district_code=0209&fin_year=2022-2023&type=&source=national&short_name=&Digest=uRXZ1DYaP9nmS5P5MqQrvQ'>NELLORE</a></td>
+                  <td align="right" >22878.58</td>
+                    <td align="right" > 254.13</td>
+                   <td align="right" > 1751.89 </td>
+                   <td align="right">16371.49 </td>
+                   <td align="right" >1839.03 </td>
+                   <td align="right">290.65 </td>
+                 
+                  <td align="right"> 26469.5</td>
+                <td align="right">16916.27 </td>
+                   <td align="right" >43385.78 </td>
+                   <td align="right">207929 </td>
+                   <td align="right"> 321060</td>
+                  <td align="right"> 11314677</td>
+                    <td align="right"> 54.42</td>
+                   <td align="right" >202.63 </td>
+                   <td align="right">14029 </td>
+                   <td align="right"> 37805</td>
+                  <td align="right"> 249.2</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">16</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=NTR&district_code=0218&fin_year=2022-2023&type=&source=national&short_name=&Digest=fgUWhIxDjjbpMxc4bd599g'>NTR</a></td>
+                  <td align="right" >15682.77</td>
+                    <td align="right" > 297.59</td>
+                   <td align="right" > 1507.63 </td>
+                   <td align="right">5071.73 </td>
+                   <td align="right" >625.4 </td>
+                   <td align="right">36.51 </td>
+                 
+                  <td align="right"> 17815.81</td>
+                <td align="right">5405.84 </td>
+                   <td align="right" >23221.64 </td>
+                   <td align="right">141158 </td>
+                   <td align="right"> 245738</td>
+                  <td align="right"> 7245460</td>
+                    <td align="right"> 51.33</td>
+                   <td align="right" >216.89 </td>
+                   <td align="right">15340 </td>
+                   <td align="right"> 25242</td>
+                  <td align="right"> 251.48</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">17</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=PALNADU&district_code=0220&fin_year=2022-2023&type=&source=national&short_name=&Digest=Is9t22WSY5SBVMWCV/Ah2A'>PALNADU</a></td>
+                  <td align="right" >14828.37</td>
+                    <td align="right" > 153.13</td>
+                   <td align="right" > 1120.86 </td>
+                   <td align="right">10781.62 </td>
+                   <td align="right" >987.14 </td>
+                   <td align="right">60.71 </td>
+                 
+                  <td align="right"> 16936.37</td>
+                <td align="right">10995.46 </td>
+                   <td align="right" >27931.83 </td>
+                   <td align="right">191518 </td>
+                   <td align="right"> 336122</td>
+                  <td align="right"> 7822952</td>
+                    <td align="right"> 40.85</td>
+                   <td align="right" >190.15 </td>
+                   <td align="right">17863 </td>
+                   <td align="right"> 19286</td>
+                  <td align="right"> 223.2</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">18</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=PARVATHIPURAM+MANYAM&district_code=0225&fin_year=2022-2023&type=&source=national&short_name=&Digest=7NHbuos57F7a7nPIpku9bw'>PARVATHIPURAM MANYAM</a></td>
+                  <td align="right" >21410.69</td>
+                    <td align="right" > 251.18</td>
+                   <td align="right" > 1049.11 </td>
+                   <td align="right">9652.55 </td>
+                   <td align="right" >1113.57 </td>
+                   <td align="right">23 </td>
+                 
+                  <td align="right"> 23573.37</td>
+                <td align="right">9926.72 </td>
+                   <td align="right" >33500.1 </td>
+                   <td align="right">173161 </td>
+                   <td align="right"> 305267</td>
+                  <td align="right"> 10722339</td>
+                    <td align="right"> 61.92</td>
+                   <td align="right" >199.86 </td>
+                   <td align="right">15933 </td>
+                   <td align="right"> 36134</td>
+                  <td align="right"> 264.47</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">19</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=PRAKASAM&district_code=0208&fin_year=2022-2023&type=&source=national&short_name=&Digest=ValWHIBDNq36x5t68byTdw'>PRAKASAM</a></td>
+                  <td align="right" >32285.77</td>
+                    <td align="right" > 220.99</td>
+                   <td align="right" > 1715.39 </td>
+                   <td align="right">22424.74 </td>
+                   <td align="right" >2666.04 </td>
+                   <td align="right">229 </td>
+                 
+                  <td align="right"> 36667.2</td>
+                <td align="right">22874.74 </td>
+                   <td align="right" >59541.94 </td>
+                   <td align="right">323070 </td>
+                   <td align="right"> 572703</td>
+                  <td align="right"> 16617627</td>
+                    <td align="right"> 51.44</td>
+                   <td align="right" >194.49 </td>
+                   <td align="right">18798 </td>
+                   <td align="right"> 33189</td>
+                  <td align="right"> 254.09</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">20</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=SRI+SATHYA+SAI&district_code=0222&fin_year=2022-2023&type=&source=national&short_name=&Digest=fLHrFFnhGDQVPUha6ctXew'>SRI SATHYA SAI</a></td>
+                  <td align="right" >17001.64</td>
+                    <td align="right" > 85.74</td>
+                   <td align="right" > 1184.94 </td>
+                   <td align="right">12265.2 </td>
+                   <td align="right" >1715.64 </td>
+                   <td align="right">73.77 </td>
+                 
+                  <td align="right"> 19902.22</td>
+                <td align="right">12424.71 </td>
+                   <td align="right" >32326.93 </td>
+                   <td align="right">151049 </td>
+                   <td align="right"> 268332</td>
+                  <td align="right"> 7952611</td>
+                    <td align="right"> 52.65</td>
+                   <td align="right" >213.62 </td>
+                   <td align="right">12070 </td>
+                   <td align="right"> 37418</td>
+                  <td align="right"> 324.56</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">21</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=SRIKAKULAM&district_code=0201&fin_year=2022-2023&type=&source=national&short_name=&Digest=m45Dr1t/iFa9e6LuPFqwLQ'>SRIKAKULAM</a></td>
+                  <td align="right" >37970.63</td>
+                    <td align="right" > 150.15</td>
+                   <td align="right" > 2000.27 </td>
+                   <td align="right">15579.27 </td>
+                   <td align="right" >2599.21 </td>
+                   <td align="right">171.63 </td>
+                 
+                  <td align="right"> 42570.11</td>
+                <td align="right">15901.05 </td>
+                   <td align="right" >58471.16 </td>
+                   <td align="right">331163 </td>
+                   <td align="right"> 497901</td>
+                  <td align="right"> 20087465</td>
+                    <td align="right"> 60.66</td>
+                   <td align="right" >189.17 </td>
+                   <td align="right">19875 </td>
+                   <td align="right"> 60206</td>
+                  <td align="right"> 252.37</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">22</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=TIRUPATI&district_code=0224&fin_year=2022-2023&type=&source=national&short_name=&Digest=fWZuEyzbd2dgUrZg5CGj8g'>TIRUPATI</a></td>
+                  <td align="right" >21330.42</td>
+                    <td align="right" > 124.47</td>
+                   <td align="right" > 1824.54 </td>
+                   <td align="right">9523.4 </td>
+                   <td align="right" >1449.46 </td>
+                   <td align="right">47.01 </td>
+                 
+                  <td align="right"> 24604.41</td>
+                <td align="right">9694.88 </td>
+                   <td align="right" >34299.29 </td>
+                   <td align="right">178848 </td>
+                   <td align="right"> 281624</td>
+                  <td align="right"> 10062698</td>
+                    <td align="right"> 56.26</td>
+                   <td align="right" >211.55 </td>
+                   <td align="right">19291 </td>
+                   <td align="right"> 39224</td>
+                  <td align="right"> 259.7</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">23</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=VISAKHAPATANAM&district_code=0203&fin_year=2022-2023&type=&source=national&short_name=&Digest=DXgMjS50E/Z7/ubKfpyybw'>VISAKHAPATANAM</a></td>
+                  <td align="right" >3198.32</td>
+                    <td align="right" > 6.17</td>
+                   <td align="right" > 174.57 </td>
+                   <td align="right">1793.25 </td>
+                   <td align="right" >655.41 </td>
+                   <td align="right">131.7 </td>
+                 
+                  <td align="right"> 4028.3</td>
+                <td align="right">1931.12 </td>
+                   <td align="right" >5959.43 </td>
+                   <td align="right">27282 </td>
+                   <td align="right"> 39652</td>
+                  <td align="right"> 1566494</td>
+                    <td align="right"> 57.42</td>
+                   <td align="right" >204.33 </td>
+                   <td align="right">662 </td>
+                   <td align="right"> 4022</td>
+                  <td align="right"> 310.74</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">24</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=VIZIANAGARAM&district_code=0202&fin_year=2022-2023&type=&source=national&short_name=&Digest=0EEaVTswy5esiozNtlf1ZQ'>VIZIANAGARAM</a></td>
+                  <td align="right" >40554.38</td>
+                    <td align="right" > 101.37</td>
+                   <td align="right" > 1374.39 </td>
+                   <td align="right">10086.96 </td>
+                   <td align="right" >2255.36 </td>
+                   <td align="right">120.28 </td>
+                 
+                  <td align="right"> 44184.13</td>
+                <td align="right">10308.61 </td>
+                   <td align="right" >54492.73 </td>
+                   <td align="right">311719 </td>
+                   <td align="right"> 499040</td>
+                  <td align="right"> 19534490</td>
+                    <td align="right"> 62.67</td>
+                   <td align="right" >207.86 </td>
+                   <td align="right">12196 </td>
+                   <td align="right"> 51972</td>
+                  <td align="right"> 251.88</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">25</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=WEST+GODAVARI&district_code=0205&fin_year=2022-2023&type=&source=national&short_name=&Digest=+f1dNMQddmYXNJwwjA1haA'>WEST GODAVARI</a></td>
+                  <td align="right" >9073.61</td>
+                    <td align="right" > 54.11</td>
+                   <td align="right" > 1555.3 </td>
+                   <td align="right">7510.11 </td>
+                   <td align="right" >712.46 </td>
+                   <td align="right">66.91 </td>
+                 
+                  <td align="right"> 11341.36</td>
+                <td align="right">7631.13 </td>
+                   <td align="right" >18972.5 </td>
+                   <td align="right">107323 </td>
+                   <td align="right"> 164365</td>
+                  <td align="right"> 3960604</td>
+                    <td align="right"> 36.9</td>
+                   <td align="right" >229.78 </td>
+                   <td align="right">13392 </td>
+                   <td align="right"> 31568</td>
+                  <td align="right"> 303.4</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center">26</td>
+                   <td align="left" ><a href='outlayvscomest.aspx?page=d&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&district_name=Y.S.R&district_code=0211&fin_year=2022-2023&type=&source=national&short_name=&Digest=8f9ffpD7Xnyj+EO2QAPGQw'>Y.S.R</a></td>
+                  <td align="right" >15931.78</td>
+                    <td align="right" > 50.52</td>
+                   <td align="right" > 3109.66 </td>
+                   <td align="right">8889.12 </td>
+                   <td align="right" >2392 </td>
+                   <td align="right">154.32 </td>
+                 
+                  <td align="right"> 21433.45</td>
+                <td align="right">9093.96 </td>
+                   <td align="right" >30527.41 </td>
+                   <td align="right">145943 </td>
+                   <td align="right"> 235733</td>
+                  <td align="right"> 7250015</td>
+                    <td align="right"> 49.68</td>
+                   <td align="right" >219.92 </td>
+                   <td align="right">18019 </td>
+                   <td align="right"> 43761</td>
+                  <td align="right"> 322.29</td>
+                 
+                     
+</tr>
+    
+    
+             <tr>
+                   <td align="center"></td>
+                   <td align="left" ><b>Total</b></td>
+                  <td align="right" >505876.75</td>
+                    <td align="right" > 4207.01</td>
+                   <td align="right" > 44532.32 </td>
+                   <td align="right">263789.41 </td>
+                   <td align="right" >37801.59 </td>
+                   <td align="right">2897.07 </td>
+                 
+                  <td align="right"> 588210.66</td>
+                <td align="right">270893.52 </td>
+                   <td align="right" >859104.21 </td>
+                   <td align="right">4582760 </td>
+                   <td align="right"> 7599041</td>
+                  <td align="right"> 239535800</td>
+                    <td align="right"> 52.27</td>
+                   <td align="right" >211.47 </td>
+                   <td align="right">374598 </td>
+                   <td align="right"> 964402</td>
+                  <td align="right"> 279.82</td>
+                 
+                     
+</tr>
+    
+    </table>
+    
+      <br />
+    </div>
